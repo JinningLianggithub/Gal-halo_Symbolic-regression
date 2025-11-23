@@ -1,5 +1,5 @@
 ### **y (target):**  
-- `DiskFraction`
+- `log10(DiskHeight/VirialRadius)`
 
 ---
 
@@ -10,10 +10,10 @@
 - **x3:** Einasto concentration  
 - **x4:** Einasto shape parameter  
 - **x5:** formation time  
-- **x6:** redshift  
-- **x7:** inner minor-to-intermediate axis ratio (within 0.1 R_vir)  
-- **x8:** normalized accretion rate  
-- **x9:** local number density (within 1 Mpc)  
+- **x6:** normalized accretion rate    
+- **x7:** PC2 from mass variable 
+- **x8:** minor-to-intermediate axis ratio
+- **x9:** minor-to-major axis ratio
 
 ---
 
@@ -22,9 +22,9 @@
 - **x1:** global DM spin  
 - **x2:** inner DM spin (within 0.1 R_vir)  
 - **x3:** Einasto concentration  
-- **x4:** normalized accretion rate  
-- **x5:** global minor-to-major axis ratio  
-- **x6:** redshift  
-- **x7:** formation time  
-- **x8:** local number density (within 1 Mpc)  
-- **x9:** inner intermediate-to-major axis ratio (within 0.1 R_vir)
+- **x4:** formation time
+- **x5:** minor-to-major axis ratio  
+- **x6:** normalized accretion rate  
+- **x7:** PC2 from mass variable   
+- **x8:** PC1 from mass variable 
+- **x9:** Einasto shape parameter
