@@ -1,5 +1,5 @@
 ### **y (target):**  
-- `log10(DiskHeight/VirialRadius)`
+- `log10(DiskHeight/VirialRadius) (Lowmass)`
 
 ---
 
