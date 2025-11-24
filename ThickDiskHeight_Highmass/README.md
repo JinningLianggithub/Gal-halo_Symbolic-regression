@@ -1,5 +1,5 @@
 ### **y (target):**  
-- `DiskFraction`
+- `log10(ThickDiskHeight/VirialRadius) (Highmass)`
 
 ---
 
@@ -9,11 +9,11 @@
 - **x2:** inner DM spin (within 0.1 R_vir)  
 - **x3:** Einasto concentration  
 - **x4:** Einasto shape parameter  
-- **x5:** formation time  
-- **x6:** redshift  
-- **x7:** inner minor-to-intermediate axis ratio (within 0.1 R_vir)  
+- **x5:** redshift 
+- **x6:** mean merger ratio for all mergers within four dynamic time  
+- **x7:** PC2 for mass variable 
 - **x8:** normalized accretion rate  
-- **x9:** local number density (within 1 Mpc)  
+- **x9:** formation time
 
 ---
 
@@ -22,9 +22,9 @@
 - **x1:** global DM spin  
 - **x2:** inner DM spin (within 0.1 R_vir)  
 - **x3:** Einasto concentration  
-- **x4:** normalized accretion rate  
-- **x5:** global minor-to-major axis ratio  
-- **x6:** redshift  
-- **x7:** formation time  
-- **x8:** local number density (within 1 Mpc)  
-- **x9:** inner intermediate-to-major axis ratio (within 0.1 R_vir)
+- **x4:** Einasto shape parameter 
+- **x5:** normalized accretion rate  
+- **x6:** mean merger ratio for all mergers within four dynamic time
+- **x7:** formation time
+- **x8:** PC2 for mass variable  
+- **x9:** cosmic web classification (0-knot, 1-filament, 2-sheet, 3-void)
