@@ -24,8 +24,7 @@ Use these features to perform symbolic regression with PySR.
 You can use the parameter settings and loss function from our paper or customize them in **`PySR.py`**.  
 This step produces interpretable empirical formulas that relate halo properties to galaxy properties.
 
-
+## **Included Materials**
 
 - All parameter settings used in **Liang, Jiang et al. (2025)** are provided directly in the scripts.
 - Precomputed results—including Random Forest models, SHAP outputs, and PySR symbolic regression results—are available in their respective folders.
-
